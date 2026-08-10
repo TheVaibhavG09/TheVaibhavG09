@@ -159,3 +159,8 @@ I enjoy working across the entire product lifecycle — from understanding the p
          src="https://raw.githubusercontent.com/TheVaibhavG09/TheVaibhavG09/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="YOUR_SNAKE_URL" alt="GitHub Contribution Snake" />
+</p>
