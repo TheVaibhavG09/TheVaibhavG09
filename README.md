@@ -146,10 +146,3 @@ I enjoy working across the entire product lifecycle — from understanding the p
 | **Machine Learning** | Intermediate | Building foundational knowledge around ML concepts, models and applied workflows |
 | **NLP** | Intermediate | Exploring natural-language processing and language-model applications |
 | **Cloud AI** | Intermediate | Working with cloud platforms and AI services for application development 
-  </picture>
-</p>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8B+I'm+Vaibhav+Garg;Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
-</p>
