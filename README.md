@@ -145,18 +145,7 @@ I enjoy working across the entire product lifecycle — from understanding the p
 | **AI Product Engineering** | Advanced | Turning AI capabilities into practical software products and user-facing experiences |
 | **Machine Learning** | Intermediate | Building foundational knowledge around ML concepts, models and applied workflows |
 | **NLP** | Intermediate | Exploring natural-language processing and language-model applications |
-| **Cloud AI** | Intermediate | Working with cloud platforms and AI services for application development |
-
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/TheVaibhavG09/TheVaibhavG09/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/TheVaibhavG09/TheVaibhavG09/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake"
-         src="https://raw.githubusercontent.com/TheVaibhavG09/TheVaibhavG09/output/github-contribution-grid-snake.svg">
+| **Cloud AI** | Intermediate | Working with cloud platforms and AI services for application development 
   </picture>
 </p>
 <p align="center">
